@@ -38,9 +38,10 @@ As Founder & CEO, I work on both the creative and technical side of the project,
 - **Digital Presence** — developing the brand's presence online
 
 **Website:** [varelclothing.dk](https://varelclothing.dk)
+
 **Support VAREL**
 
-If you want to support VAREL, you can donate via MobilePay or Vipps.
+If you want to support VAREL, you can donate via MobilePay / Vipps.
 
 **MobilePay / Vipps:** `9081PY`
 
