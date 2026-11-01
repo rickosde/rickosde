@@ -116,7 +116,7 @@ Personal and educational projects involving website development, Linux servers, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosde&layout=compact&hide_border=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rickosde&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rickosde&theme=github-dark&hide_border=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rickosde&theme=darkhub&no-frame=true&margin-w=10" />
