@@ -112,9 +112,9 @@ Personal and educational projects involving website development, Linux servers, 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickosde&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rickosde&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosde&layout=compact&hide_border=true&theme=github_dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rickosde&layout=compact&hide_border=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rickosde&theme=github-dark&hide_border=true)
 
