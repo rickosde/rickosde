@@ -19,6 +19,28 @@ I enjoy turning ideas into working solutions, from developing websites and manag
   </a>
 </p>
 
+---
+
+## Featured Project
+
+### VAREL Clothing
+
+**Founder & CEO**
+
+VAREL is an independent Danish clothing brand I'm building from the ground up, focusing on minimalist design, quality, and a strong brand identity.
+
+As Founder & CEO, I work on both the creative and technical side of the project, including:
+
+- **Brand Development** — visual identity, branding, and direction
+- **Web Development** — website and online presence
+- **Product Development** — exploring products, samples, and suppliers
+- **Operations** — planning, coordination, and business development
+- **Digital Presence** — developing the brand's presence online
+
+**Website:** [varelclothing.dk](https://varelclothing.dk)
+
+---
+
 ## About Me
 
 - Studying IT, networking and design at SDE
@@ -76,23 +98,7 @@ Building and maintaining websites and working with self-managed server environme
 - Managing Linux servers through SSH
 - Working with build tools, hosting, and deployment workflows
 
-## Projects
-
-## VAREL Clothing
-
-**Founder & CEO**
-
-VAREL is an independent Danish clothing brand I'm building from the ground up with a focus on minimalist design, quality, and a strong brand identity.
-
-As Founder & CEO, I work on both the creative and technical side of the business, including:
-
-- **Brand development** — visual identity, branding, and direction
-- **Web development** — website and online presence
-- **Product development** — exploring products, samples, and suppliers
-- **Operations** — planning, coordination, and building the business
-- **Digital presence** — developing the brand's presence online
-
-**Website:** [varelclothing.dk](https://varelclothing.dk)
+## Other Projects
 
 ### FiveM Development
 
