@@ -1,10 +1,23 @@
 # Ricko
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Student+%40+SDE;Web+%26+Software+Developer;Linux+%26+Infrastructure;Building+projects+from+the+ground+up" />
+</p>
+
 **IT Student · Developer · Web & Software**
 
 I'm an IT student at Syddansk Erhvervsskole (SDE), passionate about technology, software development, and building projects from the ground up.
 
 I enjoy turning ideas into working solutions, from developing websites and managing server infrastructure to building and maintaining gaming-related projects.
+
+<p align="center">
+  <a href="https://github.com/rickosde">
+    <img src="https://img.shields.io/badge/GitHub-rickosde-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://varelclothing.dk">
+    <img src="https://img.shields.io/badge/VAREL-Website-black?style=for-the-badge" />
+  </a>
+</p>
 
 ## About Me
 
@@ -38,6 +51,8 @@ I enjoy turning ideas into working solutions, from developing websites and manag
 
 ![FiveM](https://img.shields.io/badge/FiveM-00A8E8?style=flat-square)
 ![QBCore](https://img.shields.io/badge/QBCore-222222?style=flat-square)
+![ESX](https://img.shields.io/badge/ESX-4A90E2?style=flat-square)
+![vRP](https://img.shields.io/badge/vRP-8A2BE2?style=flat-square)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## Experience
@@ -100,6 +115,12 @@ Personal and educational projects involving website development, Linux servers, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickosde&show_icons=true&hide_border=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosde&layout=compact&hide_border=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rickosde&theme=github-dark&hide_border=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rickosde&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
